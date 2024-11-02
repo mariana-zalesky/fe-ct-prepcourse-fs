@@ -8,6 +8,6 @@ function esNuloOIndefinido(valor) {
   // 22 ---> false
   // "texto" ---> false
   // Tu código:
-}
+};
 
 module.exports = esNuloOIndefinido;
